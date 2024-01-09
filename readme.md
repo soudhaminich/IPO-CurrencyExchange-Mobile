@@ -1,4 +1,4 @@
-# React Native IPO Calander and Currency Rate App
+# React Native IPO Calendar and Currency Rate App
 
 This is a mobile application developed using React Native that enables users to track IPO Calander and Currency Rate information.
 
